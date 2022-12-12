@@ -1,0 +1,9 @@
+.App h1{
+    text-align: center;
+    font-size: large;
+}
+
+.App p {
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+}
